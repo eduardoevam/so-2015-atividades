@@ -4,24 +4,21 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: EDUARDO VICTOR ALBUQUERQUE MACIEL
+:Matrícula: 20121144010427
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
-
+Unir, criar arquivos e exibir;
 
 cd
-  Descrição do comando
+Ir para um diretório; ex.: cd /var/www
 
 
 cowsay
-  Descrição do comando
-
+ir para um programa de desenhos ASCI
 
 echo
-  Descrição do comando
 
 
 env
@@ -33,15 +30,15 @@ exit
 
 
 help
-  Descrição do comando
+ajuda 
 
 
 HISTTIMEFORMAT="%d/%m/%y"
-  Descrição do comando
+Serve para exibir historico com data e hora;
 
 
 hostname
-  Descrição do comando
+Nome do computador;
 
 
 ifconfig
@@ -57,64 +54,57 @@ lastb
 
 
 ls
-  Descrição do comando
-
+lista arquivos dentro de um diretório;
 
 mkdir
-  Descrição do comando
-
+Cria um diretório;
 
 nome="fulano
   Descrição do comando
 
 
 passswd
-  Descrição do comando
-
+altera a senha do usuário;
 
 pwd
-  Descrição do comando
+indica o diretorio em que o usuario está;
 
 
 set
-  Descrição do comando
+Descrição do comando
 
 
 tree
-  Descrição do comando
+Descrição do comando
 
 
 tty
-  Descrição do comando
+Descrição do comando
 
 
 vim
-  Descrição do comando
-
+é um editor de texto;
 
 wait
-  Descrição do comando
 
 
 wall
-  Descrição do comando
-
+Envia uma mensagem para a área de notificação do sistema gráfico
 
 which
-  Descrição do comando
-
+  Localiza um programa na estrutura de diretórios do path;
 
 while
   Descrição do comando
 
 
 who
-  Descrição do comando
+  Descreve o nome de todos os usuários logados. Ex.: Who
 
 
 whoami
-  Descrição do comando
-
+  Descreve nome do usuário. ex.: Whoami
+  
 write
-  Descrição do comando
+  Envia uma mensagem para um usuário. Ex.: Write
 
